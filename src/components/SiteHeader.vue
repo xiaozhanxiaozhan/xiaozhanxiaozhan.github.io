@@ -11,7 +11,7 @@ async function goToAbout() {
   <header class="site-header wrap">
     <RouterLink class="identity" to="/" aria-label="返回项目主页">
       <span class="avatar">Y</span>
-      <span><strong>詹世源</strong><small>AI Developer · Personal Projects</small></span>
+      <span><strong>xiaozhan</strong><small>AI Developer · Personal Projects</small></span>
     </RouterLink>
     <nav aria-label="主要导航">
       <RouterLink to="/">项目</RouterLink>
